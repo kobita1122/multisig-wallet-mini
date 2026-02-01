@@ -1,0 +1,15 @@
+{
+  "name": "multisig-wallet-mini",
+  "version": "1.0.0",
+  "description": "Minimal Multi-Signature Wallet Contract",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solidity",
+    "blockchain",
+    "multisig",
+    "ethereum"
+  ],
+  "license": "MIT"
+}
